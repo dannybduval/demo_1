@@ -41,7 +41,7 @@
 
 // Same Day Change
 "SameDayChange.CheckGateScreens" = "Check Gate Screens";
-"SameDayChange.StandbyInformation" = "Your Position: %@ of %@\nSeats Remaining: %@";
+"SameDayChange.StandbyInformation" = "Your Position: %1$@ of %2$@\nSeats Remaining: %@";
 
 // Wifi Helper
 "TodayMode.WifiHelper" = "In-Flight Wi-Fi";
