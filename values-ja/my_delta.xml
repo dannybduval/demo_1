@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="skymiles_tab"></string>
+  <string name="total_mqs_earned"></string>
+  <string name="total_mqs_earned_sub_heading"></string>
+  <string name="mqm_qualification_label"></string>
+  <string name="mqs_qualification_label"></string>
+  <string name="mqd_qualification_label"></string>
+  <string name="credit_card_spend"></string>
+  <string name="loyalty_number_label_caps"></string>
+  <string name="loyalty_card_screen_title"></string>
+  <string name="my_delta_nav_item"></string>
+  <string name="skymiles_future_year_status_text"></string>
+  <string name="recent_activity"></string>
+  <string name="total_mqm_earned"></string>
+  <string name="contact_us"></string>
+  <string name="uk_contact"></string>
+  <string name="usa_contact"></string>
+  <string name="other_contact"></string>
+  <string name="flying_club_url"></string>
+</resources>
