@@ -1,0 +1,30 @@
+"Flight Details Departure" = "Booking Details";
+"Feedback Email Subject" = "Virgin Atlantic iPhone App Feedback";
+"Flight Details" = "Trip Details";
+"CHECK_IN" = "Check In\
+Now";
+"Next Trip" = "Next Flight";
+"Today's Trips" = "Today's Trips";
+"SameDayFlightChange" = "Same-Day Change";
+"Failure Error Description Text" = "We're having some technical issues with Today on the Virgin Atlantic app, but we're working to fix it as quickly as possible.";
+"No Upcoming Flight" = "You don't have any upcoming flights.";
+"Find My Trip" = "Find My Booking";
+"Infant in Arms" = "Lap infant";
+"TodayTripsCell.CheckedIn" = "Checked In";
+"Enrollment.MilesAvailable.Title" = "POINTS AVAILABLE";
+"JoinLoyalty.WithMiles" = "You can earn %@ points on this trip. Become a Flying Club member and start earning points to spend on your next adventure. <_link>enrollment_from_today_mode|Join Flying Club</_link>";
+"JoinLoyalty.WithOutMiles" = "You can earn points on this trip. Become a Flying Club member and start earning points to spend on your next adventure.<_link>enrollment_from_today_mode|Join Flying Club</_link>";
+"DLV_PNR" = "You can earn points on this trip. Become a Flying Club member and start earning points to spend on your next adventure. <_link>enrollment_from_today_mode|Join Flying Club</_link>";
+"SaferTravel.Loading" = "Loading…";
+"Biometrics.Accept" = "OPT IN";
+"Biometrics.Decline" = "OPT OUT";
+"Biometrics.Disclaimer" = "As a TSA PreCheck® member, you're eligible to use facial recognition verification for a faster and enhanced airport experience with Virgin and the Transportation Security Administration. By opting in, you consent to participate and have read TSA’s <_link>tsa_link|Privacy Policy</_link>. Your personal data will be processed in accordance with our Privacy Policy.";
+"Today.SwipeBarTitle.Departure" = "DEPARTURE";
+"Today.SwipeBarTitle.Connecting" = "CONNECTING (%@)";
+"Today.SwipeBarTitle.Standby" = "STANDBY";
+"Today.SwipeBarTitle.StandbyWithCode" = "STANDBY (%@)";
+"Today.SwipeBarTitle.Arrival" = "ARRIVAL";
+"SameDayChange.CheckGateScreens" = "Check Gate Screens";
+"SameDayChange.StandbyInformation" = "Your Position: %@ of %@\
+Seats Remaining: %@";
+"TodayMode.WifiHelper" = "Inflight WiFi";
