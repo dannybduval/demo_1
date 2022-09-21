@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="action_bar_title_baggage_tracking"></string>
+  <string name="bags_money_total_format"></string>
+  <string name="bags_miles_total_format"></string>
+  <string name="bags_pending"></string>
+  <string name="bags_check"></string>
+  <string name="bags_free_check"></string>
+  <string name="miles_total_format"></string>
+  <string name="mac_passenger_label"></string>
+  <string name="mac_purchase_msg"></string>
+  <string name="insufficient_mile_msg"></string>
+  <string name="insufficient_mile_title"></string>
+  <string name="card_holder_format"></string>
+  <string name="bags_count"></string>
+</resources>
