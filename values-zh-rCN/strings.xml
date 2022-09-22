@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="action_bar_title_baggage_tracking"></string>
+  <string name="bags_money_total_format"></string>
+  <string name="bags_miles_total_format"></string>
+  <string name="bags_pending"></string>
+  <string name="bags_check"></string>
+  <string name="bags_free_check"></string>
+  <string name="miles_total_format"></string>
+  <string name="mac_passenger_label"></string>
+  <string name="mac_purchase_msg"></string>
+  <string name="insufficient_mile_msg"></string>
+  <string name="insufficient_mile_title"></string>
+  <string name="card_holder_format"></string>
+  <string name="bags_count"></string>
+  <string name="skymiles_tab"></string>
+  <string name="total_mqs_earned"></string>
+  <string name="total_mqs_earned_sub_heading"></string>
+  <string name="mqm_qualification_label"></string>
+  <string name="mqs_qualification_label"></string>
+  <string name="mqd_qualification_label"></string>
+  <string name="credit_card_spend"></string>
+  <string name="loyalty_number_label_caps"></string>
+  <string name="loyalty_card_screen_title"></string>
+  <string name="my_delta_nav_item"></string>
+</resources>

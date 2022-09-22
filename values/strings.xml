@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="action_bar_title_baggage_tracking">Track My Bags</string>
+  <string name="bags_money_total_format">%1$s</string>
+  <string name="bags_miles_total_format">\u0020or
+ %1$s miles</string>
+  <string name="bags_pending">(%s) Pending</string>
+  <string name="bags_check">CHECK %1$d %2$s</string>
+  <string name="bags_free_check">Check %1$d %2$s</string>
+  <string name="miles_total_format">%s MILES</string>
+  <string name="mac_passenger_label">Use %1$s\'s Miles</string>
+  <string name="mac_purchase_msg">You may pay for everyone\'s bags by using your miles.</string>
+  <string name="insufficient_mile_msg">There are not enough miles in this SkyMiles account to redeem for baggage. You may pay with money to complete your purchase.</string>
+  <string name="insufficient_mile_title">Insufficient Miles</string>
+  <string name="card_holder_format">%1$s %2$s</string>
+  <string name="bags_count">%s Bags</string>
+  <string name="skymiles_tab">SkyMiles</string>
+  <string name="total_mqs_earned">MQSs</string>
+  <string name="total_mqs_earned_sub_heading">MQSs</string>
+  <string name="mqm_qualification_label">Medallion Qualification Miles</string>
+  <string name="mqs_qualification_label">Medallion Qualification Segments</string>
+  <string name="mqd_qualification_label">Medallion Qualification Dollars</string>
+  <string name="credit_card_spend">Delta SkyMiles Credit Card Spend</string>
+  <string name="loyalty_number_label_caps">SKYMILES NUMBER</string>
+  <string name="loyalty_card_screen_title">SkyMiles Card</string>
+  <string name="my_delta_nav_item">Account</string>
+</resources>
