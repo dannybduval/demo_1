@@ -1,24 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="skymiles_tab">Overview</string>
-    <string name="skymiles_future_year_status_text">Hello you. Let’s catch up.</string>
-    <string name="total_mqs_earned">TIER POINTS</string>
-    <string name="total_mqs_earned_sub_heading">Tier Points</string>
-    <string name="recent_activity">My Activity</string>
-    <string name="total_mqm_earned">POINTS</string>
-
-    <string name="mqm_qualification_label">Total Points Balance</string>
-    <string name="mqs_qualification_label">Tier Points</string>
-    <string name="mqd_qualification_label">Medallion Qualification Dollars</string>
-    <string name="credit_card_spend">Delta SkyMiles Credit Card Spend</string>
-
-    <string name="loyalty_number_label_caps">FLYING CLUB NUMBER</string>
-    <string name="loyalty_card_screen_title">Flying Club Card</string>
-
-    <string name="contact_us">CONTACT US:</string>
-    <string name="uk_contact">UK: 0344 412 2414</string>
-    <string name="usa_contact">USA: 1800 365 9500</string>
-    <string name="other_contact">Elsewhere: +44(0) 344 412 2414</string>
-    <string name="flying_club_url">www.virginatlantic.com/flyingclub</string>
-    <string name="my_delta_nav_item">My Account</string>
+  <string name="skymiles_tab">Overview</string>
+  <string name="skymiles_future_year_status_text">Hello you. Let’s catch up.</string>
+  <string name="total_mqs_earned">TIER POINTS</string>
+  <string name="total_mqs_earned_sub_heading">Tier Points</string>
+  <string name="recent_activity">My Activity</string>
+  <string name="total_mqm_earned">POINTS</string>
+  <string name="mqm_qualification_label">Total Points Balance</string>
+  <string name="mqs_qualification_label">Tier Points</string>
+  <string name="mqd_qualification_label">Medallion Qualification Dollars</string>
+  <string name="credit_card_spend">Delta SkyMiles Credit Card Spend</string>
+  <string name="loyalty_number_label_caps">FLYING CLUB NUMBER</string>
+  <string name="loyalty_card_screen_title">Flying Club Card</string>
+  <string name="contact_us">CONTACT US:</string>
+  <string name="uk_contact">UK: 0344 412 2414</string>
+  <string name="usa_contact">USA: 1800 365 9500</string>
+  <string name="other_contact">Elsewhere: +44(0) 344 412 2414</string>
+  <string name="flying_club_url">www.virginatlantic.com/flyingclub</string>
+  <string name="my_delta_nav_item">My Account</string>
 </resources>
