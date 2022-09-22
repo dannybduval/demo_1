@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="skymiles_tab">SkyMiles</string>
-    <string name="total_mqs_earned">MQSs</string>
-    <string name="total_mqs_earned_sub_heading">MQSs</string>
-    <string name="mqm_qualification_label">Medallion Qualification Miles</string>
-    <string name="mqs_qualification_label">Medallion Qualification Segments</string>
-    <string name="mqd_qualification_label">Medallion Qualification Dollars</string>
-    <string name="credit_card_spend">Delta SkyMiles Credit Card Spend</string>
-
-    <string name="loyalty_number_label_caps">SKYMILES NUMBER</string>
-    <string name="loyalty_card_screen_title">SkyMiles Card</string>
-    <string name="my_delta_nav_item">Account</string>
+  <string name="skymiles_tab">SkyMiles</string>
+  <string name="total_mqs_earned">MQSs</string>
+  <string name="total_mqs_earned_sub_heading">MQSs</string>
+  <string name="mqm_qualification_label">Medallion Qualification Miles</string>
+  <string name="mqs_qualification_label">Medallion Qualification Segments</string>
+  <string name="mqd_qualification_label">Medallion Qualification Dollars</string>
+  <string name="credit_card_spend">Delta SkyMiles Credit Card Spend</string>
+  <string name="loyalty_number_label_caps">SKYMILES NUMBER</string>
+  <string name="loyalty_card_screen_title">SkyMiles Card</string>
+  <string name="my_delta_nav_item">Account</string>
 </resources>
