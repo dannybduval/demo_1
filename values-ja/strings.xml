@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="Flight_Details_Departure"></string>
+  <string name="Feedback_Email_Subject"></string>
+  <string name="Flight_Details"></string>
+  <string name="CHECK_IN"></string>
+  <string name="Next_Trip"></string>
+  <string name="Todays_Trips"></string>
+  <string name="SameDayFlightChange"></string>
+  <string name="Failure_Error_Description_Text"></string>
+  <string name="No_Upcoming_Flight"></string>
+  <string name="Find_My_Trip"></string>
+  <string name="Infant_in_Arms"></string>
+  <string name="TodayTripsCell.CheckedIn"></string>
+  <string name="Enrollment.MilesAvailable.Title"></string>
+  <string name="JoinLoyalty.WithMiles"></string>
+  <string name="JoinLoyalty.WithOutMiles"></string>
+  <string name="DLV_PNR"></string>
+  <string name="SaferTravel.Loading"></string>
+  <string name="Biometrics.Accept"></string>
+  <string name="Biometrics.Decline"></string>
+  <string name="Biometrics.Disclaimer"><![CDATA[As a TSA PreCheck® member, you\'re eligible to use facial recognition verification for a faster and enhanced airport experience with Virgin and the Transportation Security Administration. By opting in, you consent to participate and have read TSA’s <_link>tsa_link|Privacy Policy</_link>. Your personal data will be processed in accordance with our Privacy Policy.]]></string>
+  <string name="Today.SwipeBarTitle.Departure"></string>
+  <string name="Today.SwipeBarTitle.Connecting"></string>
+  <string name="Today.SwipeBarTitle.Standby"></string>
+  <string name="Today.SwipeBarTitle.StandbyWithCode"></string>
+  <string name="Today.SwipeBarTitle.Arrival"></string>
+  <string name="SameDayChange.CheckGateScreens"></string>
+  <string name="SameDayChange.StandbyInformation">Your Position: %1$@ of %2$@
+Seats Remaining:%3$@</string>
+  <string name="TodayMode.WifiHelper">機内WiFi</string>
+</resources>
