@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="skymiles_tab"></string>
+  <string name="total_mqs_earned"></string>
+  <string name="total_mqs_earned_sub_heading"></string>
+  <string name="mqm_qualification_label"></string>
+  <string name="mqs_qualification_label"></string>
+  <string name="mqd_qualification_label"></string>
+  <string name="credit_card_spend"></string>
+  <string name="loyalty_number_label_caps"></string>
+  <string name="loyalty_card_screen_title"></string>
+  <string name="my_delta_nav_item"></string>
+</resources>
