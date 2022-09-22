@@ -1,47 +1,28 @@
-"Flight Details Departure" = "Flight Details";
-"Feedback Email Subject" = "Fly Delta iPhone App Feedback";
-"Flight Details" = "Trip Details";
-"CHECK_IN" = "Check In";
-"Next Trip" = "Next Trip";
-"Today's Trips" = "Today's Trips";
-"SameDayFlightChange" = "Same-Day Change";
-
-"Failure Error Description Text" = "We're having some technical issues with Today on the Fly Delta app, but we're working to fix it as quickly as possible.";
-
-"No Upcoming Flight" = "You don't have any upcoming trips.";
-"Find My Trip" = "Find My Trip";
-
-//Infant
-"Infant in Arms" = "Infant in Arms";
-
-//Today Trips
-"Today's Trips" = "Today's Trips";
-"TodayTripsCell.CheckedIn" = "Checked In";
-
-//Loyalty program enrollment
-"Enrollment.MilesAvailable.Title" = "MILES AVAILABLE";
-"JoinLoyalty.WithMiles" = "You earned %@ miles on this trip - don't leave them behind, join and earn instantly. \n<_link>enrollment_from_today_mode|Join SkyMiles\U00ae</_link>";
-"JoinLoyalty.WithOutMiles" = "You could earn miles on this trip - don't leave them behind, join and earn instantly. <_link>enrollment_from_today_mode|Join SkyMiles\U00ae</_link>";
-"DLV_PNR" = "You could earn miles on this trip - don't leave them behind, join and earn instantly. <_link>enrollment_from_today_mode|Join SkyMiles\U00ae</_link>";
-
-// Safer Travel
-"SaferTravel.Loading" = "Loading…";
-
-// Biometrics
-"Biometrics.Accept" = "OPT IN";
-"Biometrics.Decline" = "OPT OUT";
-"Biometrics.Disclaimer" = "As a TSA PreCheck® member, you're eligible to use facial recognition verification for a faster and enhanced airport experience with Delta and the Transportation Security Administration. By opting in, you consent to participate and have read TSA’s <_link>tsa_link|Privacy Policy</_link>. Your personal data will be processed in accordance with our Privacy Policy.";
-
-// Today Dashboard Swipe Bar Titles
-"Today.SwipeBarTitle.Departure" = "DEPARTURE";
-"Today.SwipeBarTitle.Connecting" = "CONNECTING (%@)";
-"Today.SwipeBarTitle.Standby" = "STANDBY";
-"Today.SwipeBarTitle.StandbyWithCode" = "STANDBY (%@)";
-"Today.SwipeBarTitle.Arrival" = "ARRIVAL";
-
-// Same Day Change
-"SameDayChange.CheckGateScreens" = "Check Gate Screens";
-"SameDayChange.StandbyInformation" = "Your Position: %1$@ of %2$@\nSeats Remaining: %@";
-
-// Wifi Helper
-"TodayMode.WifiHelper" = "In-Flight Wi-Fi";
+"Flight Details Departure" = "";
+"Feedback Email Subject" = "";
+"Flight Details" = "";
+"CHECK_IN" = "";
+"Next Trip" = "";
+"Today's Trips" = "";
+"SameDayFlightChange" = "";
+"Failure Error Description Text" = "";
+"No Upcoming Flight" = "";
+"Find My Trip" = "";
+"Infant in Arms" = "";
+"TodayTripsCell.CheckedIn" = "";
+"Enrollment.MilesAvailable.Title" = "";
+"JoinLoyalty.WithMiles" = "";
+"JoinLoyalty.WithOutMiles" = "";
+"DLV_PNR" = "";
+"SaferTravel.Loading" = "";
+"Biometrics.Accept" = "";
+"Biometrics.Decline" = "";
+"Biometrics.Disclaimer" = "";
+"Today.SwipeBarTitle.Departure" = "";
+"Today.SwipeBarTitle.Connecting" = "";
+"Today.SwipeBarTitle.Standby" = "";
+"Today.SwipeBarTitle.StandbyWithCode" = "";
+"Today.SwipeBarTitle.Arrival" = "";
+"SameDayChange.CheckGateScreens" = "";
+"SameDayChange.StandbyInformation" = "";
+"TodayMode.WifiHelper" = "";
